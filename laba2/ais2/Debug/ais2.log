@@ -1,0 +1,4 @@
+﻿  List.cpp
+c:\users\grigo\source\repos\ais2\list.cpp(171): warning C4101: cont2: неиспользованная локальная переменная
+c:\users\grigo\source\repos\ais2\list.cpp(233): warning C4018: <: несоответствие типов со знаком и без знака
+  ais2.vcxproj -> C:\Users\grigo\source\repos\ais2\Debug\ais2.lib
